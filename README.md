@@ -32,11 +32,6 @@ Symphony is a lightweight and user-friendly music application designed with a va
 
 ---
 
-## Screenshots
-*(Add your screenshots here for visual reference.)*
-
----
-
 ## How to Use
 1. Download the app and install it on your device.
 2. Organize your music library by albums, artists, genres, or playlists.
@@ -45,5 +40,3 @@ Symphony is a lightweight and user-friendly music application designed with a va
 
 ---
 
-## Contact
-For further inquiries or feedback, feel free to contact the developers.  
